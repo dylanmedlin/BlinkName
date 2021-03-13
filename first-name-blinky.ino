@@ -78,10 +78,10 @@ void loop() {
 	digitalWrite(led1, HIGH);
 	delay(LONG); // -
 	digitalWrite(led1, LOW);
-	delay(LONG);
+	delay(LONG); // end letter
 	
 	// n
-    digitalWrite(led1, HIGH);
+    	digitalWrite(led1, HIGH);
 	delay(LONG); // -
 	digitalWrite(led1, LOW);
 	delay(SHORT);
