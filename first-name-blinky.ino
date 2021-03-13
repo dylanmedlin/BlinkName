@@ -1,4 +1,4 @@
-int led1 = D6; // LED
+int led1 = D7; // Built-in LED
 
 // morse code blink lengths
 #define SHORT 500
